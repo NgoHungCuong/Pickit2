@@ -1,0 +1,17 @@
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.exe
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.pdb
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\bin\Release\PICkit2V2.exe
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\bin\Release\PICkit2V2.pdb
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\ResolveAssemblyReference.cache
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.DialogAbout.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.DialogCalibrate.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.DialogCustomBaud.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.DialogTroubleshoot.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.DialogUART.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.DialogUserIDs.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.FormTestMemory.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.FormPICkit2.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.Properties.Resources.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.DialogVDDErase.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.SetOSCCAL.resources
+D:\Data\Dien tu\VDK\Tai_Lieu_PIC\Programing\PICkit2PCAppSourceV2_40\PC_AppV2\PICkit2V2\PICkit2V2\obj\Release\PICkit2V2.csproj.GenerateResource.Cache
